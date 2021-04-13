@@ -8,7 +8,7 @@ Windows™/Linux: Ctrl+Shift+N
   - To add the library’s utility classes to the project classpath:
   - In the **Projects** window, right-click the **Libraries** node for the MyApp project and choose **Add Project…** as shown in the image below.
 
-![addproj](https://i.imgur.com/ZOoPCuy.png)
+![addproj]()
 
 If necessary, in the **Add Project** window browse to NetBeansProjects and, select the MyLib project folder. When you do so, you will see Project Name: MyLib and, Project JAR Files: dist/MyLib.jar can be added to the project.
 
