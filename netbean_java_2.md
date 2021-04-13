@@ -14,19 +14,28 @@ If necessary, in the **Add Project** window browse to NetBeansProjects and, sele
 
 Notice that a JAR file is shown for MyLib even though you have not actually built one yet. This JAR file will get built when you build and run the MyApp project.
 
-Select Add Project JAR Files then expand the Libraries node of MyApp in the Projects window and, you will see that MyLib project’s JAR file has been added to the MyApp project’s classpath.
+Select **Add Project JAR Files** then expand the **Libraries** node of MyApp in the **Projects window** and, you will see that MyLib **project’s JAR file** has been added to the MyApp **project’s classpath**.
 
 - Creating and Editing Java Source Code
 - Creating a Java Package and Class File
-- Creating a Java Package and Class File
-In the **Projects** window, right-click the MyLib project node and select **New** > **Java Class…**. Alternatively, regardless of where you are in the project, press:
+In the **Projects** window, right-click the MyLib **project node** and select **New** > **Java Class…**. Alternatively, regardless of where you are in the project, press:
 
 Windows™/Linux: Ctrl+N
 
 macOS™: Command+N
- 
+or, select File > New File…​ from the menu bar. Then in the New File window select: Project: MyLib, Categories: Java and File Types: Java Class then click Next.
+
+In the New Java Class window, type: Class Name: LibClass and Package: org.me.mylib. Click Finish and LibClass.java opens in the source editor.
+
+In LibClass.java, place the cursor on the line after the class declaration public class LibClass {.
 
 - Editing a Java File
+If the code that you pasted in is not formatted correctly, press:
+
+Windows™/Linux: Alt+Shift+F
+
+macOS™: Ctrl+Shift+F
+
 - Compiling and Running the Application
 - Setting the Main Class and Execution Arguments
 - Running the Application
