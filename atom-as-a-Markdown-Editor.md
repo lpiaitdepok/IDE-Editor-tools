@@ -21,10 +21,14 @@ click View >> Toggle Soft Wrap
 ## Setting up for Markdown
 ### Open Atom’s Package Manager
 1. If you’re on Windows, click Packages >> Settings View >> Open.
-2. Atom Markdown packages number in the dozens. But I find I only need three:
+2. Atom Markdown packages number in the dozens. But I find I only need some:
     * language-markdown
     * markdown-writer
     * markdown-preview
+    * document-outline
+    * markdown-scroll-sync
+    * atom-csv-markdown
+    * markdown-table-editor
 3. They add nifty things like Markdown syntax highlighting
 4. And autonumbered lists
 5. And let you preview your document without leaving Atom.
