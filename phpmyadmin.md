@@ -3,6 +3,9 @@
 2. Masukkan Database name dan pilih Collation.
 3. Klik tombol Create
 
+# melihat daftar table
+1. Server > Databases
+2. klik Structure
 
 # mengubah Collation
 1. Server > Databases
