@@ -15,10 +15,10 @@
 | Select current line                         | Ctrl+L           | expandLineSelection                |
 | Insert Cursor Below                         | Ctrl+Alt+Down    | editor.action.insertCursorBelow    |
 | Insert Cursor Above                         | Ctrl+Alt+Up      | editor.action.insertCursorAbove    |
-| Jump to matching bracket                    | Ctrl+Shift+\     | editor.action.jumpToBracket        |
-| Indent Line                                 | Ctrl+]           | editor.action.indentLines          |
-| Outdent Line                                | Ctrl+[           | editor.action.outdentLines         |
-| Fold (collapse) region             | Ctrl+Shift+[       | editor.fold                                      |
+| Jump to matching bracket                    | Ctrl+Shift+\       | editor.action.jumpToBracket        |
+| Indent Line                                 | Ctrl+]             | editor.action.indentLines          |
+| Outdent Line                                | Ctrl+[             | editor.action.outdentLines         |
+| Fold (collapse) region                      | Ctrl+Shift+[       | editor.fold                                      |
 | Unfold (uncollapse) region         | Ctrl+Shift+]       | editor.unfold                                    |
 | Fold (collapse) all subregions     | Ctrl+K Ctrl+[      | editor.foldRecursively                           |
 | Unfold (uncollapse) all subregions | Ctrl+K Ctrl+]      | editor.unfoldRecursively                         |
@@ -49,6 +49,7 @@
 | Close Group to Right               | unassigned         | workbench.action.closeEditorsToTheRight          |
 | Close All                          | Ctrl+K Ctrl+W      | workbench.action.closeAllEditors                 |
 | Reopen Closed Editor               | Ctrl+Shift+T       | workbench.action.reopenClosedEditor              |
+| Go to File..., Quick Open          | Ctrl+P             | workbench.action.quickOpen                      |
 | Keep Open                          | Ctrl+K Enter       | workbench.action.keepEditor                      |
 | Copy Path of Active File           | Ctrl+K P           | workbench.action.files.copyPathOfActiveFile      |
 | Reveal Active File in Windows      | Ctrl+K R           | workbench.action.files.revealActiveFileInWindows |
