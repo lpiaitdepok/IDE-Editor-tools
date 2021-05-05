@@ -6,7 +6,7 @@ https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
 * klik di "Preferences: Open Default Settings (JSON)"
 * Cari pengaturan seperti di bawah ini:
 ```
-todo-tree.tree.scanMode (workspace)
+"todo-tree.tree.scanMode": "workspace"
 ```
 * Atur menjadi semua file yang terbuka (open files) atau hanya file yang aktif sekarang (current file). Jika tetap menggunakan (workspace) dapat memperlambat kinerja atau menyebabkan komputer hang dan cepat rusak.
 
