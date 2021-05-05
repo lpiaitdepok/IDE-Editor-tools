@@ -51,7 +51,7 @@ todohighlight.include	array	[
 ```
 
 **Catatan:**
-* Jika ingin bekerja menggunakan Visual Studio Code dengan extensi VSCode TODO Highlight, **JANGAN GUNAKAN** {**/*.*} karena akan memperlambat kinerja dan menyebabkan komputer hang dan cepat rusak.
+* Jika ingin bekerja menggunakan Visual Studio Code dengan extensi VSCode TODO Highlight, **JANGAN GUNAKAN** {**/\*.\*} karena akan memperlambat kinerja dan menyebabkan komputer hang dan cepat rusak.
 * Daftar todo ada di Explorer bar sebelah kiri
 * Ingat! pastikan tidak ada task berat lain yang sedang bekerja atau ada window-window lain yang masih terbuka saat akan menampilkan todo.
 
