@@ -30,3 +30,6 @@ Terdapat 3 cara untuk menggunakan extensions ini.
    Shift + P. Kemudian ketik run code, lalu enter.
 - Kedua, gunakan shortcut Ctrl + Alt + N.
 - Dan yang terakhir, cukup klik kanan pada workspace kalian, dan pilih Run Code.
+
+### Catatan:
+CodeRunner tidak mendukung java package?
