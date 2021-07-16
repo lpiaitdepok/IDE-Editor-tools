@@ -29,6 +29,7 @@ Terdapat 3 cara untuk menggunakan extensions ini.
 - Pertama, buka command palette dengan menekan tombol F1 atau Ctrl +
    Shift + P. Kemudian ketik run code, lalu enter.
 - Kedua, gunakan shortcut Ctrl + Alt + N.
+- Ketiga, tekan tombol segitiga dekat tab file pada masing-masing editor group di sisi kanan.
 - Dan yang terakhir, cukup klik kanan pada workspace kalian, dan pilih Run Code.
 
 ### Catatan:
