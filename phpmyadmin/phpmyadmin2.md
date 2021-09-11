@@ -1,3 +1,5 @@
+tutorial ini menggunakan XAMPP. Mungkin ada perbedaan dengan server paketmu.
+
 ## Pada Windows, untuk mengaktifkan phpmyadmin
 klik tombol start Apache dan MySQL
 http://localhost/phpmyadmin/index.php
