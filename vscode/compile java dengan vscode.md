@@ -8,8 +8,9 @@
  4. Lalu kalian ketik command dan pilih Open New Command Prompt atau Open New External Terminal untuk membuka cmd yang secara default terbuka pada direktori aktif file Java kalian. Atau, kalian juga bisa menggunakan shortcut Ctrl + Shift + C, dan cmd pun akan langsung terbuka.
 ## Menggunakan Integrated Terminal
 Hampir sama dengan cara sebelumnya, kalian juga bisa menggunakan integrated terminal untuk melakukan command-command yang digunakan di cmd, seperti cd untuk pindah direktori, javac untuk compile dan java untuk run.
- 5. Caranya cukup tekan tombol Ctrl + ` (backtick), 
- 6. dan integrated terminal sudah muncul pada bagian bawah VS Code kalian. (note: Tombol backtick berada di sebelah kiri angka 1)
+
+5. Caranya cukup tekan tombol Ctrl + ` (backtick), 
+6. dan integrated terminal sudah muncul pada bagian bawah VS Code kalian. (note: Tombol backtick berada di sebelah kiri angka 1)
 ## Menggunakan Extensions Java Debug
 Dari 2 cara sebelumnya yang sudah saya jelaskan, ini adalah salah satu cara yang menurut saya sangat mudah. Tetapi sebelum itu, kalian harus menginstall extensions tambahan terlebih dahulu.
 1. Caranya cukup mudah, tekan tombol Ctrl + P,
