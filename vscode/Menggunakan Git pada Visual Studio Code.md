@@ -9,7 +9,7 @@ https://git-scm.com/
 
 Pro Git book. Scott Chacon and Ben Straub. Apress
 
-* Initilaize repo
+* Initialize repo
 * Menutup repo
 * Merge repo
 * Rebase repo
